@@ -112,7 +112,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yousefa7med/Boslah_app.git
+   git clone https://github.com/mhmdashraf11/Boslah_app.git
 ---
 
 
