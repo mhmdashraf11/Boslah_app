@@ -172,11 +172,11 @@ To get a local copy up and running, follow these simple steps:
 
 <br>
 
-<a href="https://www.linkedin.com/in/1youssef-ahmed/" target="_blank">
+<a href="https://www.linkedin.com/in/mohamedashraf20/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:youssefahmedserag@gmail.com">
+<a href="mailto:mohamed4ashraf2019@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
